@@ -1,0 +1,7 @@
+C:\Varun Naidu\Personal\CardGameConsoleApp\VarunNaidu\CardGame\bin\Debug\CardGame.exe.config
+C:\Varun Naidu\Personal\CardGameConsoleApp\VarunNaidu\CardGame\bin\Debug\CardGame.exe
+C:\Varun Naidu\Personal\CardGameConsoleApp\VarunNaidu\CardGame\bin\Debug\CardGame.pdb
+C:\Varun Naidu\Personal\CardGameConsoleApp\VarunNaidu\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Varun Naidu\Personal\CardGameConsoleApp\VarunNaidu\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Varun Naidu\Personal\CardGameConsoleApp\VarunNaidu\CardGame\obj\Debug\CardGame.exe
+C:\Varun Naidu\Personal\CardGameConsoleApp\VarunNaidu\CardGame\obj\Debug\CardGame.pdb
